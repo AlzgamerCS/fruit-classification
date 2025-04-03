@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+env/
+venv/
+*.env
+
+# Jupyter
+
+# Data
+
+# IDE
+.vscode/
+
+# Other
+Practical task on AI.pdf
