@@ -3,8 +3,10 @@ __pycache__/
 env/
 venv/
 *.env
+anaconda_projects/
 
 # Jupyter
+.ipynb_checkpoints/
 
 # Data
 
