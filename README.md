@@ -38,3 +38,9 @@ venv/Scripts/activate
 ```bash
 pip install -r requirements.txt
 ```
+
+- Запуск Jupyter
+
+```bash
+jupyter notebook
+```
